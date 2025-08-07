@@ -1,4 +1,4 @@
-# Program Manajemen Daftar Belanja
+# Program Manajemen Daftar Belanja Sederhana
 
 # Dictionary
 daftar_belanja = {
